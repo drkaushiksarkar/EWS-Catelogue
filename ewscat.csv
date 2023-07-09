@@ -1,0 +1,30 @@
+﻿Tool,Target,Setting,Description,Link
+ANOSPEX,Malaria,Public Health,"A Stochastic, Spatially Explicit Model for Studying Anopheles Metapopulation Dynamics",https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0068040
+ArboMAP,West Nile Virus,Public Health,Arbovirus Mapping and Prediction to Forecast Mosuqito-Borne Disease Outbreaks,http://ecograph.net/arbomap/
+Albopictus package,Aedes Diseases,Public Health,Environmentally-driven population dynamics model of Aedes albopictus,https://pypi.org/project/albopictus/
+CIMSiM,Dengue,Public Health,Dengue Simulation Model,http://unfccc.int/files/adaptation/methodologies_for/vulnerability_and_adaptation/application/pdf/cimsim_and_densim__dengue_simulation_model_.pdf
+DENSiM,Dengue,Public Health,Dengue Simulation Model,http://unfccc.int/files/adaptation/methodologies_for/vulnerability_and_adaptation/application/pdf/cimsim_and_densim__dengue_simulation_model_.pdf
+Disease Monitoring Dashboard,West Nile Virus,Public Health,The application to West Nile disease in the Mediterranean basin,https://www.arcgis.com/apps/dashboards/2f3fdf74c21242d3932d7f2281640e4d
+EPIDEMIA,Malaria,Public Health,An EcoHealth Informatics System for integrated forecasting of malaria epidemics,https://malariajournal.biomedcentral.com/articles/10.1186/1475-2875-13-S1-P92
+Epigraph,Influenza,Public Health,"A computational algorithm, to design a universal swine H3 influenza vaccine",https://www.nature.com/articles/s41467-021-21508-6
+EPIPOI,General Infectious Diseases,Public Health,Analytical tool for temporal parameters from epidemiological time series,https://worldwidescience.org/topicpages/e/epidemiology+time-series+analysis.html
+EWARS,Dengue,Public Health,Early Warning and Response System for dengue outbreaks,https://apps.who.int/iris/handle/10665/332323
+HYDREMATS,Malaria,Public Health,"Hydrology, Entomology, and Malaria Transmission Simulator",https://eltahir.mit.edu/models/hydremats/
+LIS-MAL,Malaria,Public Health,Estimates of hydro-climatic suitability for malaria transmission in Africa ,https://archive.researchdata.leeds.ac.uk/715/
+LiverpoolMalariaModel,Malaria,Public Health,Mathematical-biological model of malaria parasite dynamics using daily temperature and precipitation data,http://www.impetus.uni-koeln.de/malaris/lmm_en.html
+Liverpool RVF model,Malaria,Public Health,"A dynamic, climate-driven model of Rift Valley fever",https://livrepository.liverpool.ac.uk/3000613/1/LRVF_model_GEOSPAT_Leedale_et_al_EDITED.docx
+MARA LITe,Malaria,Public Health,Climate data and malaria distribution maps and estimated populations at risk,http://unfccc.int/resource/docs/2005/sbi/eng/22.pdf
+MGDrivE 2,General Infectious Diseases,Public Health,A simulation framework for gene drive systems incorporating seasonality and epidemiological dynamics,https://marshalllab.github.io/MGDrivE/
+MVSE,General Infectious Diseases,Public Health,An R-package that estimates a climate-driven mosquito-borne viral suitability index,https://researchonline.lshtm.ac.uk/4653026/1/Obolski_et_al-2019-Methods_in_Ecology_and_Evolution.pdf
+OMaWa,Malaria,Public Health,A dynamic model of some malaria-transmitting anopheline mosquitoes of the Afrotropical region,http://open.b.uib.no/
+OpenMalaria,Malaria,Public Health,"A simulator program for studying malaria epidemiology and the impacts of interventions against malaria.
+ a simulator program for studying malaria epidemiology and the impacts of interventions against malaria.
+ a simulator program for studying malaria epidemiology and the impacts of interventions against malaria.
+ a simulator program for studying malaria epidemiology and the impacts of interventions against malaria.
+A simulator program for studying malaria epidemiology and the impacts of interventions against malaria.",https://github.com/SwissTPH/openmala
+SCOPIC,Malaria,Public Health,Seasonal Climate Outlooks in Pacific Island Countries,https://pubmed.ncbi.nlm.nih.gov/29162098/
+SLIM,Malaria,Public Health,"Assess the impact of ivermectin treatment of cattle and buffalo with standard and long-lasting formulations on the survival of wild Anopheles on Sumba Island, Indonesia",https://mesamalaria.org/mesa-track/sumba-livestock-ivermectin-malaria-control-slim-project
+STEM,Influenza,Public Health,An Open Source Tool for Disease Modeling,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6708268/
+VECTRI,Malaria,Public Health,Community vector malaria model to simulate the spread of malaria,http://users.ictp.it/~tompkins/vectri/
+Arboverse,Arbovirus,Public Health,Data-driven platform and disease modelling to anticipate and mitigate arbovirus emergence,https://orcid.org/0000-0002-0025-8293
+CLIMSEDIS,General Infectious Diseases,Public Health,A climate-sensitive disease forecasting tool,https://news.liverpool.ac.uk/2023/02/03/new-digital-tools-use-climate-data-to-tackle-infectious-disease-outbreaks/
